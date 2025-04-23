@@ -1,0 +1,17 @@
+# Python ignores
+__pycache__/
+*.pyc
+
+# IDE/editor ignores
+.vscode/
+.idea/
+
+# Data & models (optional)
+data/
+models/
+
+# Jupyter checkpoints
+*.ipynb_checkpoints
+
+# Environment files
+.env
