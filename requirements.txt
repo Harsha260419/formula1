@@ -1,0 +1,6 @@
+fastf1
+pandas
+scikit-learn
+streamlit
+pyyaml
+joblib # For saving/loading models

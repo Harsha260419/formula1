@@ -1,0 +1,9 @@
+target_race:
+  year: 2025
+  event_name: "Monaco Grand Prix"
+  prediction_session: "Qualifying" # Session to base prediction on
+
+fastf1_cache_dir: "./cache"
+model_path: "./models/podium_predictor.pkl"
+
+training_data_years: [2024, 2023, 2022] # Years of historical Monaco GPs for training
